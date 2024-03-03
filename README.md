@@ -117,9 +117,3 @@ In addition to the result, I also saved the results of render for intermediate e
 
 We can see that the result of training after 150 epochs is almost the same (visual comparison) compared to results at 250 epochs. 
 
-
-The code for this section (section 3) is referred and adapted from the following sources:
-1. https://github.com/facebookresearch/pytorch3d/tree/main/projects/nerf/nerf (Referred for functions of colour and densities)
-2. https://www.andrew.cmu.edu/course/16-825/projects/dkalaria/proj3/ (MLPwithskip model is referred from this)
-
-
